@@ -1,2 +1,8 @@
 node_modules
 .DS_STORE
+/.idea/.gitignore
+/.idea/aws.xml
+/.idea/Lyrical-GraphQL.iml
+/.idea/modules.xml
+/.idea/prettier.xml
+/.idea/vcs.xml
